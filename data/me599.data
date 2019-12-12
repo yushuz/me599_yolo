@@ -1,0 +1,6 @@
+classes=23
+train=../data/me599.txt
+valid=../data/me599.txt
+names=data/me599.names
+backup=backup/
+eval=coco
